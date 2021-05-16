@@ -1,0 +1,176 @@
+*{
+	margin: 0;
+    padding: 0;
+    font-family: 'Rubik', sans-serif;
+}
+
+#coffee_icon{
+    padding-top: 0px;
+}
+
+#top_bar{
+    position: -webkit-sticky;
+    position: sticky;
+    padding-top: 12px;
+    font-size: 24px;
+    padding-bottom: 20px; 
+    top: 0;
+    background: rgba(255,255,255,0.8);  
+}
+
+.top_text{
+    float: right;
+    padding-right: 48px;
+    padding-top: 20px;
+    right: 0;
+    vertical-align: middle;
+}
+
+#search_box{
+    font-size: 20px;
+    float: right;
+    right: 0;
+    margin-top: 14px;
+    margin-right: 20px;
+    border-radius: 8px;
+    padding: 4px;
+}
+
+#search_icon{
+    float: right;
+    right: 0;
+    padding-top: 17px;
+    padding-right: 48px;
+}
+
+#cover_img{
+    width: 100%;
+}
+
+ul {
+    text-align: justify;
+    
+}
+ul:after {
+    content: '';
+    display: inline-block;
+    width: 100%;
+}
+ul:before {
+    content: '';
+    display: block;
+}
+li {
+    display: inline-block;
+    position: relative;
+    top: 32px;
+    
+}
+
+.text{
+    padding-right: 16px;
+    padding-left: 16px;
+    padding-bottom: 64px;
+}
+
+.big_text{
+    font-size: 24px;
+    padding-bottom: 4px;
+
+}
+
+.small_text{
+    font-size: 20px;
+   
+}
+
+#review_box_heading{
+    font-size: 36px;
+    text-align: center;
+    padding: 40px;
+    font-weight: 400;
+}
+
+.review_text{
+    font-size: 20px;
+}
+
+.small_img{
+    height: 200px;
+    margin-bottom: 20px;
+}
+
+.review_text{
+    font-size: 20px;
+    padding-bottom: 4px;
+}
+
+.reviewer_name{
+    font-size: 16px;
+    text-align: right;
+    padding-right: 12px;
+}
+
+#review_list{
+    padding-bottom: 32px;
+}
+
+.social_media_icon{
+    height: 32px;
+}
+
+#bottom_container{
+    padding-bottom: 32px;
+    padding-top: 64px;
+}
+
+.social_media_li{
+    margin-right: 40px;
+    margin-left: 40px;
+    position: relative;
+    float: left;
+}
+
+#email_sub_box{
+    position: relative;
+    float: left;
+}
+
+#bottom_div{
+    float: right;
+    right: 0;
+}
+
+#sub_text{
+    font-size: 22px;
+    padding-bottom: 20px;
+}
+
+#email{
+    font-size: 20px;
+    padding: 4px;
+    margin-right: 20px;
+}
+
+#subscribe{
+    font-size: 20px;
+    padding: 8px;
+    background-color: #444444;
+    color: white;
+    margin-bottom: 64px;
+}
+
+
+.link{
+    padding: 24px;
+}
+
+.heading_2{
+    font-size: 20px;
+    padding-bottom: 4px;
+}
+
+.text_2{
+    font-size: 16px;
+    margin-bottom: 64px;
+}
